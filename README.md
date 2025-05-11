@@ -1,6 +1,6 @@
 # Cronen
 
-"Cronen" translates to German meaning "crown". Symbolizes the unique behavior of MaxTac's Vermilion AI. 
+"Cronen" translates to German meaning "crown". Symbolizes the unique behavior of MaxTac's Vermilion AI. Fight the censorship!
 
 # Warning
 
