@@ -4,7 +4,7 @@
 
 # Warning
 
-<b>This dataset is absolutely disgusting. Seriously, itss the bottom of the barrel.</b>
+<b>This dataset is absolutely disgusting. Seriously, its the bottom of the barrel.</b>
 Inside you’ll find:
 
 - Slurs, insults, and all the charming ways people dehumanize others
