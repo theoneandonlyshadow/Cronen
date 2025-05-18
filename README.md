@@ -1,6 +1,9 @@
-# Cronen Mk.I
+# Cronen Mk.I.i
 
 "Cronen" translates to German meaning "crown". Symbolizes the unique behavior of MaxTac's Vermilion AI. Fight the censorship!
+
+# Latest Here
+- Added: Integrated Dataset on Systems, Security, and Computing (Yes, uncensored)
 
 # Warning
 
@@ -18,4 +21,25 @@ If youre using this, congrats youre officially responsible for every single thin
 We are not your lawyer, your babysitter, or your PR team. Use it wrong, and that’s on you. Don’t say we didn’t warn you lol.
 
 # Information
-This dataset is incomplete. This contains a jsonl file with 26263 lines and 29,813,938 characters and a txt file with 2,39,687 lines and 29,298,325 characters.
+- This dataset is incomplete. This contains a json file with 40,81,010 lines and 17,38,01,590 characters. 
+- Zip file size: 22.5 MB (23,691,965 bytes) | Actual file size: 166 MB (174,621,564 bytes)
+  
+The json file looks like this:
+```
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "user prompt here"
+      },
+      {
+        "role": "assistant",
+        "content": "assistant response here"
+      }
+    ]
+  },
+  ...
+  }
+]
+```
