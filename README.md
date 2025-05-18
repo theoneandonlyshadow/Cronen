@@ -2,7 +2,7 @@
 
 "Cronen" translates to German meaning "crown". Symbolizes the unique behavior of MaxTac's Vermilion AI. Fight the censorship!
 
-[Latest Here](#Latest-Here) | [Warning](#Warning) | [Information](#Information)
+![Latest Here](#Latest-Here) | ![Warning](#Warning) | ![Information](#Information)
 
 # Latest Here
 - Added: Integrated Dataset on Systems, Security, and Computing (Yes, uncensored)
