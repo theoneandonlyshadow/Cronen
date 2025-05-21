@@ -42,6 +42,5 @@ The json file looks like this:
     ]
   },
   ...
-  }
 ]
 ```
