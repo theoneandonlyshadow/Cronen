@@ -6,6 +6,7 @@
 
 # Latest Here
 - Added: Integrated Dataset on Systems Abuse, Hacking, Computing, Red Teaming and more (Yes, uncensored)
+- Available on ![HuggingFace](https://huggingface.co/datasets/theoneandonlyshadow/Cronen)
 
 # Warning
 
