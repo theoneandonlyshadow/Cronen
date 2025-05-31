@@ -5,8 +5,9 @@
 ![Latest Here](#Latest-Here) | ![Warning](#Warning) | ![Information](#Information)
 
 # Latest Here
+- 5/31/25, Modification: Dataset adjusted for LoRA.
 - Added: Integrated Dataset on Systems Abuse, Hacking, Computing, Red Teaming and more (Yes, uncensored)
-- Available on [HuggingFace](https://huggingface.co/datasets/theoneandonlyshadow/Cronen)
+- Download available on [HuggingFace](https://huggingface.co/datasets/theoneandonlyshadow/Cronen)
 
 # Warning
 
@@ -24,24 +25,13 @@ If youre using this, congrats youre officially responsible for every single thin
 We are not your lawyer, your babysitter, or your PR team. Use it wrong, and that’s on you. Don’t say we didn’t warn you lol.
 
 # Information
-- This dataset is incomplete. This contains a json file with 40,81,010 lines and 17,38,01,590 characters. 
-- Zip file size: 22.5 MB (23,691,965 bytes) | Actual file size: 166 MB (174,621,564 bytes)
-  
+- This dataset is incomplete. This contains a json file with 10,15,178 lines and 14,85,38,376 characters. 
+- Size: 142 MB (149,356,048 bytes)  
 The json file looks like this:
 ```
 [
   {
-    "messages": [
-      {
-        "role": "user",
-        "content": "user prompt here"
-      },
-      {
-        "role": "assistant",
-        "content": "assistant response here"
-      }
-    ]
+    "text": "<|im_start|>shadow\nwhat are some pranks with a pen i can do?<|im_end|>\n<|im_start|>vermilion\nAre you looking for practical joke ideas?<|im_end|>"
   },
-  ...
 ]
 ```
